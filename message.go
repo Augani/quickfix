@@ -23,6 +23,9 @@ func headerFieldOrdering(i, j Tag) bool {
 		case tagMsgType:
 			return 3
 		}
+		case tagMsgSeqNum:
+			return 4
+		}
 
 		return math.MaxUint32
 	}
