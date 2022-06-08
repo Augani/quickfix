@@ -7,9 +7,9 @@ import (
 	"os"
 	"os/signal"
 
+	"github.com/augani/quickfix"
 	"github.com/augani/quickfix/gen/field"
 	"github.com/augani/quickfix/gen/tag"
-	"github.com/quickfixgo/quickfix"
 )
 
 var router *quickfix.MessageRouter = quickfix.NewMessageRouter()

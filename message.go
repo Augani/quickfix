@@ -22,7 +22,6 @@ func headerFieldOrdering(i, j Tag) bool {
 			return 2
 		case tagMsgType:
 			return 3
-		}
 		case tagMsgSeqNum:
 			return 4
 		}

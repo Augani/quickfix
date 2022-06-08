@@ -1,7 +1,7 @@
 QuickFIX/Go
 ===========
 
-[![Build Status](https://github.com/augani/quickfix/workflows/CI/badge.svg)](https://github.com/augani/quickfix/actions) [![GoDoc](https://godoc.org/github.com/quickfixgo/quickfix?status.png)](https://godoc.org/github.com/quickfixgo/quickfix) [![Go Report Card](https://goreportcard.com/badge/github.com/quickfixgo/quickfix)](https://goreportcard.com/report/github.com/quickfixgo/quickfix)
+[![Build Status](https://github.com/augani/quickfix/workflows/CI/badge.svg)](https://github.com/augani/quickfix/actions) [![GoDoc](https://godoc.org/github.com/augani/quickfix?status.png)](https://godoc.org/github.com/augani/quickfix) [![Go Report Card](https://goreportcard.com/badge/github.com/augani/quickfix)](https://goreportcard.com/report/github.com/augani/quickfix)
 
 - Website: http://www.quickfixgo.org
 - Mailing list: [Google Groups](https://groups.google.com/forum/#!forum/quickfixgo)
@@ -12,7 +12,7 @@ Getting Started and Documentation
 ---------------------------------
 
 * [User Manual](http://quickfixgo.org/docs)
-* [API Documentation](https://godoc.org/github.com/quickfixgo/quickfix)
+* [API Documentation](https://godoc.org/github.com/augani/quickfix)
 
 ### Installation
 
@@ -24,7 +24,7 @@ $ go get github.com/augani/quickfix
 
 ### Staying up to date
 
-To update QuickFIX/Go to the latest version, use `go get -u github.com/quickfixgo/quickfix`.
+To update QuickFIX/Go to the latest version, use `go get -u github.com/augani/quickfix`.
 
 ### Example Apps
 
